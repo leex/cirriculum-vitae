@@ -1,0 +1,13 @@
+/* Alex Jacobsen CV Styles */
+
+body {
+  margin-top: 35px;
+}
+
+ul.disc {
+  margin-left: 1.5em;
+}
+
+.fixed .top-bar {
+  margin-bottom: 0;
+}
