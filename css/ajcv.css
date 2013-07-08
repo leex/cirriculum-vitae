@@ -11,3 +11,11 @@ ul.disc {
 .fixed .top-bar {
   margin-bottom: 0;
 }
+
+.offset-anchor {
+  border-top: 45px solid transparent;
+  margin-top: -45px;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+}
