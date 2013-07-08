@@ -1,6 +1,8 @@
 /* Alex Jacobsen CV Styles */
 
-body {}
+.row h2 {
+  padding-top: 20px;
+}
 
 ul.disc {
   margin-left: 1.5em;
